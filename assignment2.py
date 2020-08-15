@@ -13,3 +13,5 @@ Write List comprehensions to produce the following Lists
 [4, 5, 6, 7], [5, 6, 7, 8]]
 [(1, 1), (2, 1), (3, 1), (1, 2), (2, 2), (3, 2), (1, 3), (2, 3), (3, 3)] """
 
+def myreduce():
+    
